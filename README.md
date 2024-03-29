@@ -15,7 +15,7 @@ An H-bridge allows your Arduino Uno or Arduino Mega to control the direction and
 3. Link one end of each of the H-bridge's switches to the positive and negative terminals of the power supply.
 4. Connect the other ends of the switches to the remaining terminals of the motor to control its direction.
 
-<p align= center><img src="https://github.com/gears-official/WikiHow/assets/144022283/695520a5-f3c3-4cfa-a054-d092626443b4" width="450" length="450" bordor="100"</p>
+<p align= center><img src="https://github.com/gears-official/WikiHow/assets/144022283/695520a5-f3c3-4cfa-a054-d092626443b4" width="450" length="450" border="100"</p>
    
 ### Functionality
 An H-bridge is an electronic circuit that allows a motor to be driven forward or backward. It consists of four switches arranged in a specific configuration. By toggling these switches, the current flow through the motor can be reversed, enabling movement in both directions. This setup is commonly used in robotics and electric vehicles for precise control of motor direction and speed.
