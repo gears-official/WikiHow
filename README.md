@@ -1,6 +1,6 @@
 
 #  H - Bridge 
-An H-bridge is an electronic circuit used to control the direction and speed of a motor. It consists of four switches arranged in an 'H' shape. By toggling these switches, the motor can move forward, backward, or brake. It's commonly used in robotics, electric vehicles, and other applications requiring precise motor control.
+An H-bridge is an electronic circuit used to control the direction and speed of a motor. It consists of four switches arranged in an 'H' shape. By toggling these switches, the motor can move forward, backward, or brake. It's commonly used in robotics, electric & vehicles, and other applications requiring precise motor control.
 
 <p align="center">
 <img src="https://github.com/gears-official/WikiHow/assets/144022283/12190b2e-7e5a-4c3f-8177-c64fd89a4bb4" width="300" height="300" border="10"/>
