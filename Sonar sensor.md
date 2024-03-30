@@ -5,9 +5,9 @@
 
 A Sonar sensor, also known as an ultrasonic sensor, is a device that uses sound waves to detect objects or obstacles in its vicinity. It works on the principle of sending out sound waves and measuring the time it takes for the waves to bounce back, allowing it to calculate the distance to the object.
 
-
+<p align="center" width="500" height="500">
 ![image](https://github.com/gears-official/WikiHow/assets/144022283/c4c136d1-1016-4826-9f93-ea39d39ff02f)
-
+</p>
 
 ## Uses 
 
